@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body::-webkit-scrollbar{
+    display: none;
+}
+body{
+          font-family: "Lexend Deca", sans-serif;
+}
